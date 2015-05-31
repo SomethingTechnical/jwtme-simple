@@ -1,0 +1,25 @@
+{
+  "name": "jwtme-simple",
+  "version": "0.1.0",
+  "description": "Super simple api security for development environments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SomethingTechnical/jwtme-simple.git"
+  },
+  "author": "Gouthamve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SomethingTechnical/jwtme-simple/issues"
+  },
+  "homepage": "https://github.com/SomethingTechnical/jwtme-simple#readme",
+  "dependencies": {
+    "config": "^1.13.0",
+    "express": "^4.12.4",
+    "jsonwebtoken": "^5.0.1",
+    "lodash": "^3.9.3"
+  }
+}
